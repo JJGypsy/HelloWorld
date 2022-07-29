@@ -1,3 +1,5 @@
+![headshot](download.jpg)
+
 # A little insight into JJGypsy
 Hi everyone, My name is, well in net its JJGypsy. This README will give you a bit of information about me.
 
@@ -7,3 +9,5 @@ I really love working in tech. Specifically, i love being in a position where I 
 # My Hobbies
 One of my favourite things to do is to go to Disneyland - even if I didnt go on any rides, just walking around the park and feeling the magic is enough for me.
 P.S. this is from the book "Github for Dummies"
+
+
