@@ -10,5 +10,6 @@ I really love working in tech. Specifically, i love being in a position where I 
 One of my favourite things to do is to go to Disneyland - even if I didnt go on any rides, just walking around the park and feeling the magic is enough for me.
 P.S. this is from the book "Github for Dummies"
 
-The Da Vinci Code by Dan Brown
+## The Da Vinci Code by Dan Brown
+I absolutely love The Da Vinci Code book, basically all of Dan Brown's books. They are so engaging and rich. What is even better is the community that has formed around it. Lately, I've been listening to podcasts that do deep dive into the entire Dan Brown universe and it is so much fun.
 
